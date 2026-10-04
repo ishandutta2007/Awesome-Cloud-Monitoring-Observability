@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Monitoring-Observability/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Monitoring-Observability?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Monitoring-Observability/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Monitoring-Observability?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Monitoring-Observability/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Monitoring-Observability?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Monitoring-Observability/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Monitoring-Observability?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,9 +57,9 @@ Below is a detailed comparison of top commercial observability platforms sorted 
 
 The open-source observability ecosystem is exceptionally mature, anchored by **Prometheus** for metrics collection, **Grafana** for dashboards, and **OpenTelemetry** for unified instrumentation standards.
 
-The table below lists top open-source projects sorted by **GitHub Stars (Descending)**. Each star badge links directly to the stargazers page of that repository:
+The table below lists top open-source projects sorted by **GitHub_Stars (Descending)**. Each Stars_Badge links directly to the stargazers page of that repository:
 
-| Repo | Description | License | Stars |
+| Repo | Description | License | GitHub_Stars |
 | :--- | :--- | :--- | :--- |
 | **[Netdata](https://github.com/netdata/netdata)** | Real-time infrastructure monitoring with zero configuration. Provides per-second metrics, auto-detection, interactive dashboards, and minimal footprint. | GPL-3.0 | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) |
 | **[Grafana](https://github.com/grafana/grafana)** | The leading open visualization and dashboarding platform. Connects seamlessly to Prometheus, Loki, Tempo, OpenSearch, and 100+ data sources. | AGPL-3.0 | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) |
